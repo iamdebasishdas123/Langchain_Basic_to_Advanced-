@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "country",
+        "education",
+        "name"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "My name Is {name} and I am from {country}. I have done my {education} ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
